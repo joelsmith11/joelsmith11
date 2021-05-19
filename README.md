@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joelsmith11
+- 👋 Hi, I’m Joel Smith (@joelsmith11)
 - 👀 I’m interested in cloud computing, artificial intelligence, and cybersecurity.
 - 🌱 I’m currently learning Python, Multi-threading in Java, and Data Structures and Algorithms in Java
 - 📫 How to reach me: email at joelhsmith1@gmail.com
