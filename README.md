@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Smith (@joelsmith11)
-- 👀 I’m interested in cloud computing, artificial intelligence, and cybersecurity.
-- 🌱 I’m currently learning Python, Multi-threading in Java, and Data Structures and Algorithms in Java
+- 👀 I’m interested in all things data as well as machine learning.
+- 🌱 I’m currently completing the IBM Data Science Professional Certification through Coursera.
 - 📫 How to reach me: email at joelhsmith1@gmail.com
 
 <!---
