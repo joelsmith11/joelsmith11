@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Smith (@joelsmith11)
 - 👀 I’m interested in all things data as well as machine learning.
-- 🌱 I’m currently completing the IBM Data Science Professional Certification through Coursera.
+- 🌱 I’m currently completing the IBM Data Science Professional Certification through Coursera, as well as taking a Natural Language Processing course and completing a Senior Design Project with SAS.
 - 📫 How to reach me: email at joelhsmith1@gmail.com
 
 <!---
